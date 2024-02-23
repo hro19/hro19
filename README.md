@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,astro,bitbucket,bootstrap,bun,cloudflare,discord,docker,express,figma,firebase,github,graphql,ai,js,jest,jquery,laravel,materialui,mongodb,mysql,netlify,nextjs,nginx,nodejs,notion,npm,nuxtjs,ps,php,pinia,postgres,postman,powershell,prisma,py,rails,ruby,sass,sqlite,sublime,supabase,tailwind,twitter,ts,vercel,vite,vitest,vscode,vuetify,windows,wordpress,workers,xd)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,astro,bitbucket,bootstrap,bun,cloudflare,discord,docker,express,figma,firebase,github,graphql,ai,jest,jquery,laravel,materialui,mongodb,mysql,netlify,nextjs,nginx,nodejs,notion,npm,nuxtjs,ps,php,pinia,postgres,postman,powershell,prisma,py,rails,ruby,sass,sqlite,sublime,supabase,tailwind,twitter,ts,vercel,vite,vitest,vscode,vuetify,windows,wordpress,workers,xd)](https://skillicons.dev)
