@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 <!--
 ![hro's GitHub stats](https://github-readme-stats.vercel.app/api?username=hro19&show_icons=true&theme=radical)
 -->
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,astro,bitbucket,bootstrap,cloudflare,discord,docker,express,figma,github,jquery,laravel,mongodb,mysql,nextjs,npm,ps,php,postgres,postman,prisma,rails,ruby,sass,sqlite,sublime,supabase,tailwind,ts,vercel,vite,vitest,vscode,vuetify,wordpress,workers,hono,aws,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,astro,bitbucket,bootstrap,cloudflare,discord,docker,express,figma,github,jquery,laravel,mongodb,mysql,nextjs,npm,ps,php,postgres,postman,prisma,rails,ruby,sass,sqlite,sublime,supabase,tailwind,ts,vercel,vite,vitest,vscode,vuetify,wordpress,workers,aws,azure)](https://skillicons.dev)
 
